@@ -1,9 +1,6 @@
 const button=document.getElementById("Fetch")
 
 
-const button=document.getElementById("Fetch")
-
-
 button.addEventListener('click', function(){
     var search=document.getElementById("search").value
     //  alert(search)
